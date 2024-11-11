@@ -42,3 +42,29 @@ PySpark
 How to Run
 Ensure that Apache Spark and PySpark are set up on your environment.
 Load the dataset into a DataFrame and follow the steps as described in the analysis.py script.
+
+### Screenshot
+![img](https://github.com/user-attachments/assets/f8e88925-80a1-4452-b55c-d2d27f58805e)
+
+![img_1](https://github.com/user-attachments/assets/79f82123-7313-4c50-b07b-dc708f0e4372)
+
+![img_2](https://github.com/user-attachments/assets/5fdd0731-f6e1-4f15-b787-6ad43bc116f9)
+
+![img_3](https://github.com/user-attachments/assets/269179c5-cd7a-4adb-99d7-1255064eace4)
+
+![img_4](https://github.com/user-attachments/assets/57e9a265-7e1b-4d58-ac74-db3a130e9fec)
+
+![img_5](https://github.com/user-attachments/assets/83aa1993-bce3-4258-b002-4e5dc04ec366)
+
+![img_6](https://github.com/user-attachments/assets/dfc9f959-7632-4851-ba21-a6e98801f386)
+
+![img_7](https://github.com/user-attachments/assets/0d1e24d4-2c53-4f05-8d2a-83b6410f63d9)
+
+
+
+
+
+
+
+
+
